@@ -44,9 +44,6 @@ body{
   width: 22%;
   height: 62.91px;
 }
-.teclado img:active{
-  transform: scale(0.95);
-}
 @font-face {
   font-family: digital;
   src: url("../fonts/digital.ttf");
